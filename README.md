@@ -13,4 +13,4 @@ This project contains:
 - **chatbot_Präsi.html** One rendered version of the presentation in R
 - **DepresseionChatbot.Rproj** The global Projekt-File
 
-
+To actually use the bot, you need to setup the Telegram API. Please follow the Links in _doc/Chatbot-Aufgabenstellung.txt_.
