@@ -8,4 +8,5 @@ This project contains:
 - **chatbot.R** The bot script
 - **chatbot_Präsi.Rmd** The presentation in R markdown
 - **chatbot_Präsi.html** One rendered version of the presentation in R
+- **DepresseionChatbot.Rproj** The global Projekt-File
 
