@@ -1,7 +1,7 @@
 # DepressionChatbot
 A simple telegram chatbot prototype to advice you in bad times.
 _This is an educational project for learning R. The informations given of the bot are made up by a computer scientist. Don't expect actual clinical advices._  
-  
+<br>  
   
 ![Chatbot in Action on the Telegram UI](https://github.com/FrederikHeck/R-DepressionChatbot/blob/main/img/api4.PNG)
 
