@@ -1,0 +1,80 @@
+---
+title: "Depressions Chatbot in Telegram"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Chatbot Use Cases
+
+- Versicherung (Schadensfälle)
+- Online Shops (Kundenservice)
+- Unterhaltung (Quiz)
+- Wissenschaft (Turing Test)
+- Statistik (Umfrage)
+
+## Telegram: The BotFather
+
+![The Botfather](botfather.png "The Botfather"){width=100%}
+
+## Telegram: The BotFather
+
+Telgram-Bot-Introduction: [https://core.telegram.org/bots](https://core.telegram.org/bots)
+
+
+![](botfather2.png){width=90%}
+
+## Telegram: The BotFather
+
+Telgram-Bot-Introduction: [https://core.telegram.org/bots](https://core.telegram.org/bots)
+
+
+![](botfather3.png){width=90%}
+
+## Telegram API
+
+API-Doku: [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+![](api0.PNG){width=100%}
+
+## Telegram API
+
+API-Doku: [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+![](api1.PNG){width=100%}
+
+## Telegram API
+
+API-Doku: [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+![](api2.PNG){width=100%}
+
+## Telegram API
+
+API-Doku: [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+![](api3.PNG){width=100%}
+
+## Telegram API
+
+API-Doku: [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+![](api4.PNG){width=100%}
+
+
+## R Advantage
+
+![](plotPNG.PNG){width=100%}
+
+## Signs of Sadness Bot
+[How to build a telegram chatbot](https://chatbotsmagazine.com/building-a-telegram-chatbot-with-r-2754cb75759f)
+
+![](reborn.jpeg){width=80%}
+
+## Signs of Sadness Bot
+![](botstates.png){width=100%}
+
